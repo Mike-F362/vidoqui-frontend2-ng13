@@ -1,0 +1,3 @@
+[submodule "lib/angularx-social-login"]
+	path = lib/angularx-social-login
+	url = https://github.com/abacritt/angularx-social-login.git
